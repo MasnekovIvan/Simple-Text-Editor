@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>icons8-вставить-50.png</file>
+        <file>icons8-вырезать-50.png</file>
+        <file>icons8-отменить-50.png</file>
+        <file>icons8-повторить-50.png</file>
+        <file>icons8-редактировать-50.png</file>
+        <file>icons8-скопировать-50.png</file>
+        <file>icons8-создать-новый-50.png</file>
+        <file>icons8-сохранить-50.png</file>
+        <file>icons8-сохранитькак-50.png</file>
+    </qresource>
+</RCC>
